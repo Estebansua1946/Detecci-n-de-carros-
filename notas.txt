@@ -1,0 +1,4 @@
+deteccion de carros:
+
+filtrar y suavizar imagen
+eliminando el ruido de sombras y mala deteccion
